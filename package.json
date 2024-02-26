@@ -1,11 +1,6 @@
 {
-<<<<<<< HEAD
   "name": "projetosemnome",
   "version": "1.0.95",
-=======
-  "name": "nonameproject",
-  "version": "1.0.1",
->>>>>>> develop
   "description": "",
   "main": "index.js",
   "scripts": {
